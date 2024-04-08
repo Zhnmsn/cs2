@@ -1,0 +1,53 @@
+
+.html {
+    background-color: blue;
+    color: white;
+    padding: 8px;
+    margin-top: 40px;
+    width: 100px;
+    border-radius: 10%;
+    border-width: 1px;
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+}
+
+h1 {
+    text-align: center;
+}
+
+.form1 {
+    text-align: center;
+}
+
+.form2 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.html:hover {
+    color: chartreuse;
+}
+
+.html:focus {
+    background-color: rgb(78, 78, 233);
+}
+
+.css {
+    background-color: red;
+    color: white;
+    padding: 8px;
+    margin-top: 20px;  
+    width: 100px;
+    border-radius: 10%;
+    border-width: 1px;
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+}
+
+.css:hover {
+    color: chartreuse;
+}
+
+.css:focus {
+    background-color: rgb(240, 115, 115);
+}
