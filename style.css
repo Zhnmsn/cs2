@@ -8,20 +8,10 @@
     border-radius: 10%;
     border-width: 1px;
     font-family: 'Courier New', Courier, monospace;
-    cursor: pointer;
 }
 
 h1 {
     text-align: center;
-}
-
-.form1 {
-    text-align: center;
-}
-
-.form2 {
-    text-align: center;
-    margin-top: 30px;
 }
 
 .html:hover {
